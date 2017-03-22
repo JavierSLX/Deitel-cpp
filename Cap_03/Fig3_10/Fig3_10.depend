@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490217675 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig3_10\librocalificaciones.cpp
+	"libroCalificaciones.h"
+
+1490217504 c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig3_10\librocalificaciones.h
+	<iostream>
+	<string>
+
