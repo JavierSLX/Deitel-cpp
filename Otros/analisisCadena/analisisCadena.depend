@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490326138 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\analisiscadena\main.cpp
+	"analisisCadena.h"
+
+1490325241 c:\users\javiersl\desktop\git\deitel-cpp\cap_03\analisiscadena\analisiscadena.h
+	<iostream>
+	<string>
+
