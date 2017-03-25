@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490415080 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\exer3_12\cuenta.cpp
+	"cuenta.h"
+
+1490415413 c:\users\javiersl\desktop\git\deitel-cpp\cap_03\exer3_12\cuenta.h
+	<iostream>
+	<string>
+
