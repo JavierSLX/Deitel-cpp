@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490590052 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig3_14\main.cpp
+	"Empleado.h"
+
+1490589454 c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig3_14\empleado.h
+	<iostream>
+	<string>
+
+1490590113 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig3_14\empleado.cpp
+	"Empleado.h"
+
