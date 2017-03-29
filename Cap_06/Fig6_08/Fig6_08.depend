@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490757546 source:c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig6_08\main.cpp
+	"aleatorio.h"
+
+1490757389 c:\users\javiersl\desktop\git\deitel-cpp\cap_03\fig6_08\aleatorio.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
