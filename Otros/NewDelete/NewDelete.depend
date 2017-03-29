@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490762706 source:c:\users\javiersl\desktop\git\deitel-cpp\otros\newdelete\aleatorio.cpp
+	"aleatorio.h"
+
+1490762093 c:\users\javiersl\desktop\git\deitel-cpp\otros\newdelete\aleatorio.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1490819451 source:c:\users\javiersl\desktop\git\deitel-cpp\otros\newdelete\main.cpp
+	"aleatorio.h"
+
